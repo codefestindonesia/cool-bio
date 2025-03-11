@@ -1,4 +1,4 @@
-# `wintr`
+# `wintr` - Cool Short Bio Built on Internet Computer
 
 Welcome to your new `wintr` project and to the Internet Computer development community! This project aims to provide a comprehensive platform for users to create and manage bio links, integrate NFTs, and enhance their online presence.
 
